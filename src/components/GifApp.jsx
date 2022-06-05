@@ -5,7 +5,6 @@ import GifContenedor from './GifContenedor';
 
 
 
-
 const GifApp = ({categorias = ['ben10']}) => {
     const [categoriasBusqueda, setCategoriasBusqueda] = useState(categorias);
   return (
