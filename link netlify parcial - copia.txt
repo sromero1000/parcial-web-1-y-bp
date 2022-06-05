@@ -1,0 +1,3 @@
+no me dejo montar los en netlify y amplify porque no me acuerdo el comando que utilizo para ese problema cuando se van a
+montar a un sitio, yo estoy tanto en web1 como en buenas practicas asi que por eso el nombre del repositorio
+
